@@ -1,0 +1,18 @@
+C:\Users\Programador\Documents\c# froms\Productos\Productos\bin\Debug\Productos.exe.config
+C:\Users\Programador\Documents\c# froms\Productos\Productos\bin\Debug\Productos.exe
+C:\Users\Programador\Documents\c# froms\Productos\Productos\bin\Debug\Productos.pdb
+C:\Users\Programador\Documents\c# froms\Productos\Productos\obj\Debug\Productos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\c# froms\Productos\Productos\obj\Debug\Productos.frmVentas.resources
+C:\Users\Programador\Documents\c# froms\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\Programador\Documents\c# froms\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\c# froms\Productos\Productos\obj\Debug\Productos.exe
+C:\Users\Programador\Documents\c# froms\Productos\Productos\obj\Debug\Productos.pdb
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\bin\Debug\Productos.exe.config
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\obj\Debug\Productos.pdb
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\bin\Debug\Productos.exe
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\bin\Debug\Productos.pdb
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\obj\Debug\Productos.csprojResolveAssemblyReference.cache
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\obj\Debug\Productos.frmVentas.resources
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.Cache
+C:\Users\Docente\Desktop\proyectosC#\Productos\Productos\obj\Debug\Productos.exe
